@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SLIJTZ5rFcqfeIcJfrJqv8YtYl4ZGspHhv/kaw6UaLo=",
+  "Source": "BancoCentralAPI",
+  "BasePath": "_content/BancoCentralAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
